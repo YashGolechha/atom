@@ -26,7 +26,7 @@ Atom will automatically update when a new release is available.
 
 Download the latest [AtomSetup.exe installer](https://github.com/atom/atom/releases/latest).
 
-Atom will automatically update when a new release is available.
+Atom will automatically update when a new release is available :)
 
 You can also download an `atom-windows.zip` file from the [releases page](https://github.com/atom/atom/releases/latest).
 The `.zip` version will not automatically update.
